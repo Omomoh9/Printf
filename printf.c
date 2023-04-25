@@ -2,7 +2,7 @@
 #include <limits.h>
 /**
  * error_handle - handle errors
- *
+ *created by Ahmed and Joseph 
  * @error: receive error value
  */
 void error_handle(int error)
@@ -17,7 +17,7 @@ void error_handle(int error)
  *
  * call different functions to check
  * different cases
- *
+ * Projects done by Joe and Ahmed
  * @format: pointer to received string
  *
  * @arg: received arguments
